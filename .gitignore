@@ -1,5 +1,8 @@
+*.mp4
 node_modules
 __pycache__/
 .env
 config.json
 .ipynb_checkpoints
+youtue/
+LangChain Chat with Your Data/docs/chroma/
