@@ -6,3 +6,8 @@ config.json
 .ipynb_checkpoints
 youtue/
 LangChain Chat with Your Data/docs/chroma/
+LangChain_AIFactory/
+project_analysis_notebook.ipynb
+LangChain Chat with Your Data/temp.pdf
+analysis_code.ipynb
+LangChain_믹스/
