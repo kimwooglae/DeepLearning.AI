@@ -5,9 +5,11 @@ __pycache__/
 config.json
 .ipynb_checkpoints
 youtue/
-LangChain Chat with Your Data/docs/chroma/
+04.LangChain Chat with Your Data/docs/chroma/
 LangChain_AIFactory/
 project_analysis_notebook.ipynb
-LangChain Chat with Your Data/temp.pdf
+04.LangChain Chat with Your Data/temp.pdf
 analysis_code.ipynb
 LangChain_믹스/
+07.Evaluating and Debugging Generative AI/wandb/
+05.Building Generative AI Applications with Gradio/flagged/
