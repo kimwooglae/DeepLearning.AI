@@ -12,5 +12,6 @@ project_analysis_notebook.ipynb
 analysis_code.ipynb
 LangChain_믹스/
 07.Evaluating and Debugging Generative AI/wandb/
+07.Evaluating and Debugging Generative AI/artifacts/
 05.Building Generative AI Applications with Gradio/flagged/
 test/
