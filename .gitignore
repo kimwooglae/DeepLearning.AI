@@ -15,3 +15,8 @@ LangChain_믹스/
 07.Evaluating and Debugging Generative AI/artifacts/
 05.Building Generative AI Applications with Gradio/flagged/
 test/
+lamini_docs_3_steps/
+wandb/
+lm_cache/
+OpenAI Finetuning/
+.DS_Store
